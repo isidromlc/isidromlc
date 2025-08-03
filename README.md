@@ -24,6 +24,22 @@
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=isidromlc&theme=transparent&layout=compact&locale=es&border_radius=1" />
 </a>
 
+## 🚀 Proyectos por categoría (Privado por ahora)
+
+### 🧑‍🎓 Estudiante
+- [Reserva de Recursos](https://github.com/isidromlc/ReservaRecursos)
+- [Flapuzle](https://github.com/isidromlc/PROG_Flapuzle)
+- [Rutas GPX](https://github.com/isidromlc/PROG_rutasGPX)
+- [Angular + Raspberry](https://github.com/isidromlc/proyectoAngular)
+- [Diseño de Sitio web de Pasteles](https://github.com/isidromlc/DIW_ProyectoFinal)
+- [Catálogo](https://github.com/isidromlc/PROG_Catalogo)
+
+### 🧑‍💼 Freelance
+- [CMS - PHPost](https://github.com/isidromlc/PHPost)
+- [Red Social +18](https://github.com/isidromlc/BellasGram)
+
+
+
 <!-- Ejemplo de estadísticas: 1 -->
 <!--
 <picture>
